@@ -1,0 +1,28 @@
+.infoForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.infoInput {
+    border: none;
+    outline: none;
+    background-color: var(--inputColor);
+    border-radius: 8px;
+    padding: 20px;
+    flex: 1px;
+}
+
+.infoForm>div {
+    display: flex;
+    gap: 1rem;
+    width: 90%;
+    height: 2rem;
+}
+
+.infoButton {
+    width: 6rem;
+    height: 2rem;
+    align-self: self-end;
+}

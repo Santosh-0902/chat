@@ -1,0 +1,21 @@
+.Right{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.NavIcon{
+    display: flex;
+    margin-top: 1rem;
+    justify-content: space-between;
+
+}
+.NavIcon>img{
+    width: 1.5rem;
+    height: 1.5rem;
+
+}
+.r-btn{
+    height: 3rem;
+    width: 80%;
+    align-self: center;
+}

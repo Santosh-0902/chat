@@ -1,0 +1,6 @@
+.ProMid{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-height: 100%;
+}
